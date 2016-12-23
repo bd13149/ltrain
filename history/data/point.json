@@ -1,0 +1,1016 @@
+﻿[
+  {
+    "0": [
+      {
+        "longitude": "119.99914",
+        "latitude": "36.598482",
+        "region": "平度市",
+        "zhen": "南村镇",
+        "style": "续建",
+        "name": "兰底河北村",
+        "area": "3000"
+      },
+      {
+        "longitude": "120.004404",
+        "latitude": "36.604015",
+        "region": "平度市",
+        "zhen": "南村镇",
+        "style": "续建",
+        "name": "大河岔村",
+        "area": "500"
+      },
+      {
+        "longitude": "119.840771",
+        "latitude": "36.886037",
+        "region": "平度市",
+        "zhen": "店子镇",
+        "style": "续建",
+        "name": "北马湾崖",
+        "area": "500"
+      },
+      {
+        "longitude": "119.865181",
+        "latitude": "36.909368",
+        "region": "平度市",
+        "zhen": "店子镇",
+        "style": "续建",
+        "name": "侯家",
+        "area": "800"
+      },
+      {
+        "longitude": "119.813096",
+        "latitude": "36.932919",
+        "region": "平度市",
+        "zhen": "店子镇",
+        "style": "续建",
+        "name": "果园",
+        "area": "200"
+      },
+      {
+        "longitude": "119.654576",
+        "latitude": "36.802634",
+        "region": "平度市",
+        "zhen": "明村镇",
+        "style": "续建",
+        "name": "唐戈庄",
+        "area": "500"
+      },
+      {
+        "longitude": "119.682201",
+        "latitude": "36.785072",
+        "region": "平度市",
+        "zhen": "明村镇",
+        "style": "续建",
+        "name": "庄子",
+        "area": "1000"
+      },
+      {
+        "longitude": "119.686513",
+        "latitude": "36.804898",
+        "region": "平度市",
+        "zhen": "明村镇",
+        "style": "续建",
+        "name": "大驾埠",
+        "area": "1300"
+      },
+      {
+        "longitude": "119.678248",
+        "latitude": "36.812381",
+        "region": "平度市",
+        "zhen": "明村镇",
+        "style": "续建",
+        "name": "北张家",
+        "area": "800"
+      },
+      {
+        "longitude": "119.683907",
+        "latitude": "36.805522",
+        "region": "平度市",
+        "zhen": "明村镇",
+        "style": "续建",
+        "name": "西店子",
+        "area": "900"
+      },
+      {
+        "longitude": "119.743602",
+        "latitude": "36.805014",
+        "region": "平度市",
+        "zhen": "田庄镇",
+        "style": "续建",
+        "name": "西寨村",
+        "area": "350"
+      },
+      {
+        "longitude": "119.730857",
+        "latitude": "36.787274",
+        "region": "平度市",
+        "zhen": "田庄镇",
+        "style": "续建",
+        "name": "西南寨村",
+        "area": "320"
+      },
+      {
+        "longitude": "119.735904",
+        "latitude": "36.789544",
+        "region": "平度市",
+        "zhen": "田庄镇",
+        "style": "续建",
+        "name": "东南寨村",
+        "area": "320"
+      },
+      {
+        "longitude": "119.724898",
+        "latitude": "36.800928",
+        "region": "平度市",
+        "zhen": "田庄镇",
+        "style": "续建",
+        "name": "潘家庄村",
+        "area": "680"
+      },
+      {
+        "longitude": "119.723534",
+        "latitude": "36.793317",
+        "region": "平度市",
+        "zhen": "田庄镇",
+        "style": "续建",
+        "name": "塔尔埠村",
+        "area": "330"
+      },
+      {
+        "longitude": "119.740668",
+        "latitude": "36.79952",
+        "region": "平度市",
+        "zhen": "田庄镇",
+        "style": "续建",
+        "name": "玉石头村",
+        "area": "420"
+      },
+      {
+        "longitude": "119.730374",
+        "latitude": "36.894523",
+        "region": "平度市",
+        "zhen": "田庄镇",
+        "style": "续建",
+        "name": "北洼子",
+        "area": "300"
+      },
+      {
+        "longitude": "119.79725",
+        "latitude": "36.726351",
+        "region": "平度市",
+        "zhen": "同和街道办事处",
+        "style": "续建",
+        "name": "任家庄",
+        "area": "2000"
+      },
+      {
+        "longitude": "119.580236",
+        "latitude": "36.740284",
+        "region": "平度市",
+        "zhen": "同和街道办事处",
+        "style": "续建",
+        "name": "林家庄",
+        "area": "1000"
+      },
+      {
+        "longitude": "119.765902",
+        "latitude": "36.684887",
+        "region": "平度市",
+        "zhen": "崔家集镇",
+        "style": "续建",
+        "name": "前洼村",
+        "area": "1500"
+      },
+      {
+        "longitude": "119.693524",
+        "latitude": "36.931277",
+        "region": "平度市",
+        "zhen": "新河镇",
+        "style": "新建",
+        "name": "潘家洼村",
+        "area": "360"
+      },
+      {
+        "longitude": "119.673295",
+        "latitude": "36.962567",
+        "region": "平度市",
+        "zhen": "新河镇",
+        "style": "新建",
+        "name": "下刘家村",
+        "area": "600"
+      },
+      {
+        "longitude": "119.730343",
+        "latitude": "36.942103",
+        "region": "平度市",
+        "zhen": "新河镇",
+        "style": "新建",
+        "name": "郑戈庄村",
+        "area": "240"
+      },
+      {
+        "longitude": "119.730343",
+        "latitude": "36.942103",
+        "region": "平度市",
+        "zhen": "田庄镇",
+        "style": "续建",
+        "name": "台子付家",
+        "area": "200"
+      },
+      {
+        "longitude": "119.795933",
+        "latitude": "36.961051",
+        "region": "平度市",
+        "zhen": "店子镇",
+        "style": "续建",
+        "name": "城戈庄",
+        "area": "200"
+      },
+      {
+        "longitude": "120.149415",
+        "latitude": "36.41803",
+        "region": "胶州市",
+        "zhen": "李哥庄镇",
+        "style": "续建",
+        "name": "东小埠村",
+        "area": "3000"
+      },
+      {
+        "longitude": "119.881593",
+        "latitude": "36.121202",
+        "region": "胶州市",
+        "zhen": "洋河镇",
+        "style": "续建",
+        "name": "朱悸村",
+        "area": "3000"
+      },
+      {
+        "longitude": "119.972306",
+        "latitude": "36.368421",
+        "region": "胶州市",
+        "zhen": "胶北街道办事处",
+        "style": "新建",
+        "name": "机械化示范基地",
+        "area": "1200"
+      },
+      {
+        "longitude": "119.735825",
+        "latitude": "36.13762",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "铺集二村",
+        "area": "400"
+      },
+      {
+        "longitude": "119.733638",
+        "latitude": "36.139128",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "铺集三村",
+        "area": "400"
+      },
+      {
+        "longitude": "119.736843",
+        "latitude": "36.099177",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "沙河村",
+        "area": "1300"
+      },
+      {
+        "longitude": "119.777561",
+        "latitude": "36.14489",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "巩家庄村南",
+        "area": "300"
+      },
+      {
+        "longitude": "119.781349",
+        "latitude": "36.112923",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "南朱戈村",
+        "area": "500"
+      },
+      {
+        "longitude": "119.749109",
+        "latitude": "36.120329",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "小庄村",
+        "area": "400"
+      },
+      {
+        "longitude": "119.739108",
+        "latitude": "36.124083",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "崔家河村",
+        "area": "400"
+      },
+      {
+        "longitude": "119.691071",
+        "latitude": "36.104643",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "鹿家村",
+        "area": "700"
+      },
+      {
+        "longitude": "119.685699",
+        "latitude": "36.11834",
+        "region": "胶州市",
+        "zhen": "铺集镇",
+        "style": "整镇",
+        "name": "崔家村",
+        "area": "600"
+      },
+      {
+        "longitude": "119.828477",
+        "latitude": "36.08028",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "孟慈村",
+        "area": "500"
+      },
+      {
+        "longitude": "119.776943",
+        "latitude": "36.059012",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "高家沟村",
+        "area": "200"
+      },
+      {
+        "longitude": "119.701683",
+        "latitude": "36.123983",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "胡家村",
+        "area": "300"
+      },
+      {
+        "longitude": "119.78128",
+        "latitude": "36.098782",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "南楼村",
+        "area": "300"
+      },
+      {
+        "longitude": "119.760987",
+        "latitude": "36.074461",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "崔家庄村",
+        "area": "300"
+      },
+      {
+        "longitude": "119.763704",
+        "latitude": "36.09377",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "谭家村",
+        "area": "400"
+      },
+      {
+        "longitude": "119.790044",
+        "latitude": "36.07097",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "青岛禾润雨种植专业合作社",
+        "area": "1400"
+      },
+      {
+        "longitude": "119.743068",
+        "latitude": "36.049576",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "前朱陈沟村",
+        "area": "600"
+      },
+      {
+        "longitude": "119.811322",
+        "latitude": "36.099855",
+        "region": "胶州市",
+        "zhen": "里岔镇",
+        "style": "整镇",
+        "name": "周家小庄",
+        "area": "1000"
+      },
+      {
+        "longitude": "119.703312",
+        "latitude": "36.018142",
+        "region": "黄岛市",
+        "zhen": "胶河经济区",
+        "style": "整镇",
+        "name": "东涝庄",
+        "area": "1000"
+      },
+      {
+        "longitude": "119.701524",
+        "latitude": "36.018131",
+        "region": "黄岛市",
+        "zhen": "胶河经济区",
+        "style": "整镇",
+        "name": "西涝庄",
+        "area": "500"
+      },
+      {
+        "longitude": "119.73129",
+        "latitude": "35.99604",
+        "region": "黄岛市",
+        "zhen": "胶河经济区",
+        "style": "整镇",
+        "name": "芹口",
+        "area": "500"
+      },
+      {
+        "longitude": "119.757395",
+        "latitude": "35.997248",
+        "region": "黄岛市",
+        "zhen": "胶河经济区",
+        "style": "整镇",
+        "name": "后立柱",
+        "area": "500"
+      },
+      {
+        "longitude": "119.780819",
+        "latitude": "36.008816",
+        "region": "黄岛市",
+        "zhen": "胶河经济区",
+        "style": "整镇",
+        "name": "冷家阿洛",
+        "area": "500"
+      },
+      {
+        "longitude": "119.782684",
+        "latitude": "36.000964",
+        "region": "黄岛市",
+        "zhen": "胶河经济区",
+        "style": "整镇",
+        "name": "李家阿洛",
+        "area": "500"
+      },
+      {
+        "longitude": "119.712754",
+        "latitude": "35.980443",
+        "region": "黄岛市",
+        "zhen": "胶河经济区",
+        "style": "整镇",
+        "name": "塔桥",
+        "area": "500"
+      },
+      {
+        "longitude": "119.704449",
+        "latitude": "35.981628",
+        "region": "黄岛市",
+        "zhen": "胶河经济区",
+        "style": "整镇",
+        "name": "吕家大庄",
+        "area": "500"
+      },
+      {
+        "longitude": "119.640092",
+        "latitude": "35.725926",
+        "region": "黄岛",
+        "zhen": "大场镇",
+        "style": "续建",
+        "name": "胜水西北村",
+        "area": "500"
+      },
+      {
+        "longitude": "119.640302",
+        "latitude": "35.713401",
+        "region": "黄岛",
+        "zhen": "大场镇",
+        "style": "续建",
+        "name": "胜水河西村",
+        "area": "500"
+      },
+      {
+        "longitude": "119.63292",
+        "latitude": "35.704754",
+        "region": "黄岛",
+        "zhen": "大场镇",
+        "style": "续建",
+        "name": "西南岭村",
+        "area": "800"
+      },
+      {
+        "longitude": "119.685523",
+        "latitude": "35.686947",
+        "region": "黄岛",
+        "zhen": "大场镇",
+        "style": "续建",
+        "name": "井戈庄",
+        "area": "700"
+      },
+      {
+        "longitude": "119.522362",
+        "latitude": "35.568418",
+        "region": "黄岛",
+        "zhen": "海青镇",
+        "style": "续建",
+        "name": "大岭",
+        "area": "1000"
+      },
+      {
+        "longitude": "119.566653",
+        "latitude": "35.675066",
+        "region": "黄岛",
+        "zhen": "海青镇",
+        "style": "续建",
+        "name": "青墩",
+        "area": "500"
+      },
+      {
+        "longitude": "119.573903",
+        "latitude": "35.635085",
+        "region": "黄岛",
+        "zhen": "海青镇",
+        "style": "续建",
+        "name": "徐家洼",
+        "area": "800"
+      },
+      {
+        "longitude": "119.616572",
+        "latitude": "35.623986",
+        "region": "黄岛",
+        "zhen": "海青镇",
+        "style": "续建",
+        "name": "许家村",
+        "area": "700"
+      },
+      {
+        "longitude": "120.34704",
+        "latitude": "36.558588",
+        "region": "即墨市",
+        "zhen": "段泊岚镇",
+        "style": "新建",
+        "name": "毛四村",
+        "area": "950"
+      },
+      {
+        "longitude": "120.522798",
+        "latitude": "36.432757",
+        "region": "即墨市",
+        "zhen": "段泊岚镇",
+        "style": "新建",
+        "name": "后寨村",
+        "area": "550"
+      },
+      {
+        "longitude": "120.231198",
+        "latitude": "36.451842",
+        "region": "即墨市",
+        "zhen": "刘家庄",
+        "style": "新建",
+        "name": "泉庄村",
+        "area": "1500"
+      },
+      {
+        "longitude": "120.300894",
+        "latitude": "36.430529",
+        "region": "即墨市",
+        "zhen": "大信镇",
+        "style": "续建",
+        "name": "东孙唐庄村",
+        "area": "1700"
+      },
+      {
+        "longitude": "120.300178",
+        "latitude": "36.430808",
+        "region": "即墨市",
+        "zhen": "大信镇",
+        "style": "续建",
+        "name": "西孙唐庄村",
+        "area": "1300"
+      },
+      {
+        "longitude": "120.217874",
+        "latitude": "36.576772",
+        "region": "即墨市",
+        "zhen": "移风店镇",
+        "style": "续建",
+        "name": "高吉庄村",
+        "area": "1500"
+      },
+      {
+        "longitude": "120.313926",
+        "latitude": "36.524956",
+        "region": "即墨市",
+        "zhen": "移风店镇",
+        "style": "续建",
+        "name": "西丰台村",
+        "area": "1500"
+      },
+      {
+        "longitude": "120.312077",
+        "latitude": "36.544457",
+        "region": "即墨市",
+        "zhen": "移风店镇",
+        "style": "续建",
+        "name": "东朱家庄村",
+        "area": "600"
+      },
+      {
+        "longitude": "120.687931",
+        "latitude": "36.553129",
+        "region": "即墨市",
+        "zhen": "金口镇",
+        "style": "续建",
+        "name": "中里村",
+        "area": "600"
+      },
+      {
+        "longitude": "120.645854",
+        "latitude": "36.54916",
+        "region": "即墨市",
+        "zhen": "金口镇",
+        "style": "续建",
+        "name": "垒里村",
+        "area": "700"
+      },
+      {
+        "longitude": "120.629529",
+        "latitude": "36.585063",
+        "region": "即墨市",
+        "zhen": "金口镇",
+        "style": "续建",
+        "name": "神山埠村",
+        "area": "2400"
+      },
+      {
+        "longitude": "120.221284",
+        "latitude": "36.468676",
+        "region": "即墨市",
+        "zhen": "七级镇",
+        "style": "续建",
+        "name": "神山埠村",
+        "area": "2000"
+      },
+      {
+        "longitude": "120.235736",
+        "latitude": "36.464222",
+        "region": "即墨市",
+        "zhen": "七级镇",
+        "style": "续建",
+        "name": "八里庄村",
+        "area": "1000"
+      },
+      {
+        "longitude": "120.227907",
+        "latitude": "36.46382",
+        "region": "即墨市",
+        "zhen": "七级镇",
+        "style": "续建",
+        "name": "张王庄村",
+        "area": "600"
+      },
+      {
+        "longitude": "120.602661",
+        "latitude": "36.617629",
+        "region": "莱西市",
+        "zhen": "姜山镇",
+        "style": "续建",
+        "name": "兴隆屯村",
+        "area": "1500"
+      },
+      {
+        "longitude": "120.553997",
+        "latitude": "36.745986",
+        "region": "莱西市",
+        "zhen": "姜山镇",
+        "style": "续建",
+        "name": "于旺庄村",
+        "area": "1500"
+      },
+      {
+        "longitude": "120.579503",
+        "latitude": "36.723234",
+        "region": "莱西市",
+        "zhen": "姜山镇",
+        "style": "续建",
+        "name": "邢家泽口村",
+        "area": "1500"
+      },
+      {
+        "longitude": "120.379634",
+        "latitude": "36.843159",
+        "region": "莱西市",
+        "zhen": "沽河街道",
+        "style": "续建",
+        "name": "甲瑞村",
+        "area": "2000"
+      },
+      {
+        "longitude": "120.404884",
+        "latitude": "36.850182",
+        "region": "莱西市",
+        "zhen": "沽河街道",
+        "style": "续建",
+        "name": "牛溪埠村",
+        "area": "2000"
+      },
+      {
+        "longitude": "120.406308",
+        "latitude": "36.67539",
+        "region": "莱西市",
+        "zhen": "夏格庄镇",
+        "style": "续建",
+        "name": "葛家庄村",
+        "area": "1000"
+      },
+      {
+        "longitude": "120.483562",
+        "latitude": "36.68667",
+        "region": "莱西市",
+        "zhen": "夏格庄镇",
+        "style": "续建",
+        "name": "东曲格庄村",
+        "area": "1000"
+      },
+      {
+        "longitude": "120.294026",
+        "latitude": "36.641929",
+        "region": "莱西市",
+        "zhen": "夏格庄镇",
+        "style": "续建",
+        "name": "西头村",
+        "area": "1000"
+      },
+      {
+        "longitude": "120.499096",
+        "latitude": "36.827603",
+        "region": "莱西市",
+        "zhen": "望城街道",
+        "style": "续建",
+        "name": "辛庄村村",
+        "area": "1000"
+      },
+      {
+        "longitude": "120.350531",
+        "latitude": "36.709869",
+        "region": "莱西市",
+        "zhen": "望城街道",
+        "style": "续建",
+        "name": "杏花村",
+        "area": "700"
+      },
+      {
+        "longitude": "120.347722",
+        "latitude": "36.777714",
+        "region": "莱西市",
+        "zhen": "院上镇",
+        "style": "续建",
+        "name": "深圳南路",
+        "area": "1800"
+      },
+      {
+        "longitude": "120.413297",
+        "latitude": "37.049644",
+        "region": "莱西市",
+        "zhen": "马连庄镇",
+        "style": "续建",
+        "name": "唐家庄村",
+        "area": "3000"
+      }
+    ],
+    "1": [
+      {
+        "longitude": "120.165512",
+        "latitude": "36.358655",
+        "region": "胶州市",
+        "zhen": "胶州市李哥庄镇",
+        "quyu": "续建",
+        "mianji": "3000"
+      },
+      {
+        "longitude": "119.733553",
+        "latitude": "36.132656",
+        "region": "胶州市",
+        "zhen": "胶州市铺集镇",
+        "quyu": "整镇",
+        "mianji": "5000"
+      },
+      {
+        "longitude": "119.91913",
+        "latitude": "36.144246",
+        "region": "胶州市",
+        "zhen": "胶州市洋河镇",
+        "quyu": "续建",
+        "mianji": "3000"
+      },
+      {
+        "longitude": "120.138065",
+        "latitude": "36.540987",
+        "region": "平度市",
+        "zhen": "平度市南村镇",
+        "quyu": "续建",
+        "mianji": "3500"
+      },
+      {
+        "longitude": "119.873832",
+        "latitude": "36.906774",
+        "region": "平度市",
+        "zhen": "平度市店子镇",
+        "quyu": "续建",
+        "mianji": "2000"
+      },
+      {
+        "longitude": "119.649789",
+        "latitude": "36.764029",
+        "region": "平度市",
+        "zhen": "平度市明村镇",
+        "quyu": "续建",
+        "mianji": "4500"
+      },
+      {
+        "longitude": "119.747287",
+        "latitude": "36.801629",
+        "region": "平度市",
+        "zhen": "平度市田庄镇",
+        "quyu": "续建",
+        "mianji": "3500"
+      },
+      {
+        "longitude": "119.942078",
+        "latitude": "36.745777",
+        "region": "平度市",
+        "zhen": "平度市同和街道办事处",
+        "quyu": "续建",
+        "mianji": "3000"
+      },
+      {
+        "longitude": "119.723389",
+        "latitude": "36.631907",
+        "region": "平度市",
+        "zhen": "平度市崔家集镇",
+        "quyu": "续建",
+        "mianji": "1500"
+      },
+      {
+        "longitude": "119.951062",
+        "latitude": "36.78855",
+        "region": "平度市",
+        "zhen": "平度市胶河经济区",
+        "quyu": "整镇",
+        "mianji": "500"
+      },
+      {
+        "longitude": "120.169541",
+        "latitude": "36.005019",
+        "region": "黄岛市",
+        "zhen": "黄岛区大场镇",
+        "quyu": "续建",
+        "mianji": "3000"
+      },
+      {
+        "longitude": "119.609342",
+        "latitude": "36.937162",
+        "region": "平度市",
+        "zhen": "平度市新河镇",
+        "quyu": "新建",
+        "mianji": "1200"
+      },
+      {
+        "longitude": "119.993132",
+        "latitude": "35.878063",
+        "region": "黄岛市",
+        "zhen": "黄岛区海青镇",
+        "quyu": "续建",
+        "mianji": "3000"
+      },
+      {
+        "longitude": "120.37376",
+        "latitude": "36.545065",
+        "region": "即墨市",
+        "zhen": "即墨市段泊岚镇",
+        "quyu": "新建",
+        "mianji": "1400"
+      },
+      {
+        "longitude": "120.298086",
+        "latitude": "36.602978",
+        "region": "即墨市",
+        "zhen": "即墨市刘家庄",
+        "quyu": "续建",
+        "mianji": "1500"
+      },
+      {
+        "longitude": "120.339789",
+        "latitude": "36.388597",
+        "region": "即墨市",
+        "zhen": "即墨市大信镇",
+        "quyu": "续建",
+        "mianji": "3000"
+      },
+      {
+        "longitude": "120.215401",
+        "latitude": "36.589065",
+        "region": "即墨市",
+        "zhen": "即墨市移风店镇",
+        "quyu": "续建",
+        "mianji": "3600"
+      },
+      {
+        "longitude": "120.732958",
+        "latitude": "36.576245",
+        "region": "即墨市",
+        "zhen": "即墨市金口镇",
+        "quyu": "续建",
+        "mianji": "3700"
+      },
+      {
+        "longitude": "120.228625",
+        "latitude": "36.489191",
+        "region": "即墨市",
+        "zhen": "即墨市七级镇",
+        "quyu": "续建",
+        "mianji": "3600"
+      },
+      {
+        "longitude": "120.533324",
+        "latitude": "36.677389",
+        "region": "莱西市",
+        "zhen": "姜山镇",
+        "quyu": "续建",
+        "mianji": "4500"
+      },
+      {
+        "longitude": "120.411281",
+        "latitude": "36.85019",
+        "region": "莱西市",
+        "zhen": "沽河街道",
+        "quyu": "续建",
+        "mianji": "4000"
+      },
+      {
+        "longitude": "120.436517",
+        "latitude": "36.700521",
+        "region": "莱西市",
+        "zhen": "夏格庄镇",
+        "quyu": "续建",
+        "mianji": "3000"
+      },
+      {
+        "longitude": "120.520212",
+        "latitude": "36.816904",
+        "region": "莱西市",
+        "zhen": "望城街道",
+        "quyu": "续建",
+        "mianji": "1700"
+      },
+      {
+        "longitude": "120.347687",
+        "latitude": "36.777873",
+        "region": "莱西市",
+        "zhen": "院上镇",
+        "quyu": "续建",
+        "mianji": "1800"
+      },
+      {
+        "longitude": "120.475114",
+        "latitude": "37.082159",
+        "region": "莱西市",
+        "zhen": "马连庄镇",
+        "quyu": "续建",
+        "mianji": "3000"
+      },
+      {
+        "longitude": "119.795102",
+        "latitude": "36.076343",
+        "region": "胶州市",
+        "zhen": "胶州市里岔镇",
+        "quyu": "整镇",
+        "mianji": "5000"
+      },
+      {
+        "longitude": "119.972306",
+        "latitude": "36.368421",
+        "region": "胶州市",
+        "zhen": "胶州市胶北街道办事处",
+        "quyu": "整镇",
+        "mianji": "5000"
+      }
+    ]
+  }
+]

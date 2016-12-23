@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<input type="button" value="添加当前时间到页面" onclick="setBody()"/><br />
+<input type="button" value="添加ABC到页面" onclick="setBody('abc')"/><br />
+<a href="2.html">2.html</a>
+<script>
+    var ff = navigator.userAgent.indexOf('Firefox') != -1;
+    function setBody(html) {
+        document.body.innerHTML += '<br>' + (html || new Date().toLocaleString());
+        var hk = html ? ',abc,' : ',date,';
+        if (location.hash.indexOf(hk) == -1) location.hash += hk;
+    }
+    if (!ff) { //由于firefox回退能保存js动态生成内容，所以不对firefox执行hash判断
+        var hash = location.hash;
+        if (hash.indexOf('date') != -1) //hash中包含添加时间动作，则执行下操作
+            setBody();
+        if (hash.indexOf('abc') != -1)//hash中包含添加abc动作，则执行下操作
+            setBody('abc');
+    }
+</script>
+</body>
+</html>

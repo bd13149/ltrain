@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>getjson</title>
+    <script src="js/jquery-2.1.4.js"></script>
+</head>
+<body>
+<div id="images"></div>
+<script>
+    $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags=cat&tagmode=any&format=json&jsoncallback=?", function(data){
+            $.each(data.items, function(i,item){
+                $("<img/>").attr("src", item.media.m).appendTo("#images");
+                if ( i == 3 ) return false;
+            });
+    });
+
+    // 客户端使用getJSON方法请求另一台机子上的脚本
+    // 浏览器会生成一个随机的callback参数
+    $.getJSON("/new/ajax_jsonp.php?callback=?",function(json){
+        alert(json.website);
+    });
+
+    //getJSON跨域请求例子，注意url后面带?callback=?，否则就是一般的请求json返回数据，不能跨域，带这个，加不加参数视情况而定，就是jsonp跨域。
+    //一般情况不用加callback参数，直接带个问号
+
+</script>
+</body>
+</html>

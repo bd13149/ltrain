@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>如何更简单地使用路由</title>
+</head>
+<body>
+<a href="/demo/2-1" href-opt="push">demo 2-1</a>
+<a href="/demo/2-2" href-opt="push">demo 2-2</a>
+<div id="container"></div>
+<script src="prouter.js"></script>
+<script>
+    // 当 "/demo/:num" 出现在 URL 中或 `num` 的值改变时回调函数就会被执行, 同时 `num` 将作为函数参数.
+    PRouter.route('/demo/:num', function(num){
+        document.getElementById('container').innerHTML = 'This is demo ' + num;
+    });
+
+    // 向所有有 `href-opt` 属性的 `a` 元素绑定点击事件.
+    PRouter.bindForTag();
+
+    // 启动 PRouter.
+    PRouter.start();
+</script>
+PRouter.start();                                // 启动 PRouter
+PRouter.route(route, callback, event);          // 添加路由
+PRouter.queryRoute(key, callback, event);       // 为 URL query 中的 key 添加路由
+PRouter.bindForTag(tagName);                    // 为当前页面中的元素绑定点击事件
+PRouter.push(url);                              // 调用 history.pushState 函数改变 URL
+PRouter.replace(url);                           // 调用 history.replaceState 函数改变 URL
+</body>
+</html>

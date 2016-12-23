@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>添加和修改历史记录条目</title>
+</head>
+<body>
+<a href="回到历史页面时完全保留.html">回到历史页面时完全保留.html</a>
+<div id="aa"></div>
+<button onclick="bb()">返回</button>
+<select name="" id="">
+    <option value="">4</option>
+    <option value="">48</option>
+</select>
+<button id="btn" onclick="update()">点击</button>
+<script>
+    var i=0;
+    var box=document.getElementById("aa");
+    function update(){
+        var foo={id:i};
+        var newUrl="?page="+i;
+        history.pushState(foo,'title',newUrl);
+        box.innerHTML=location.href;
+        i++;
+    }
+    window.addEventListener('popstate', function(event) {
+        updateState(event.state);
+    });
+
+    function updateState(data){
+        box.innerHTML = data.id;
+    }
+    function bb() {
+        window.history.back();
+    }
+
+</script>
+history.pushState()：会改变referrer的值，而在你调用方法后创建的 XMLHttpRequest 对象会在 HTTP 请求头中使用这个值。referrer的值则是创建 XMLHttpRequest 对象时所处的窗口的URL。
+history.replaceState()：会修改当前历史记录条目而并非创建新的条目
+popstate:当前活动历史项(history entry)改变会触发popstate事件。调用history.pushState()创建新的历史项(history entry)，或调用history.replaceState()替换新的历史项(history entry)，那么popstate事件的state属性会包含历史项(history entry)状态对象(state object)的拷贝。
+
+需要注意的是调用history.pushState()或history.replaceState()不会触发popstate事件。只有在做出浏览器动作时，才会触发该事件，如用户点击浏览器的回退按钮（或者在Javascript代码中调用history.back()）
+
+不同的浏览器在加载页面时处理popstate事件的形式存在差异。页面加载时Chrome和Safari通常会触发(emit )popstate事件，但Firefox则不会。
+</body>
+</html>

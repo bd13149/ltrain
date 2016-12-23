@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/hist.css">
+
+</head>
+<body>
+<button onclick="bb()">返回</button>
+<button id="add">加载</button>
+<a href="添加和修改历史记录条目.html">回到历史页面时完全保留.html</a>
+<div id="listBox" class="content">
+
+</div>
+<select name="" id="">
+    <option value="">4</option>
+    <option value="">48</option>
+</select>
+<!--<ul class='ulbox'></ul>-->
+<div style="background-color: #4CAF50" class="box"></div>
+<div style="background-color: #8ccefe" class="box"></div>
+
+<script src="../js/jquery-2.1.4.js"></script>
+
+<!--<script src="js/ajax.js"></script>-->
+<script src="js/history.js"></script>
+<script>
+    function bb() {
+        window.history.back();
+    }
+</script>
+<!--<script>-->
+    <!--var arr = ["A", "B", "C", "D"], result = [];-->
+    <!--while (true) {-->
+        <!--var i = parseInt(Math.random() * arr.length);-->
+        <!--if (i <= arr.length) {-->
+            <!--result.push(arr[i]);-->
+            <!--arr.splice(i, 1)-->
+        <!--}-->
+
+        <!--if (arr.length === 0)break;-->
+    <!--}-->
+
+    <!--for (var j = 0; j < result.length; j++)console.log(result[j]);-->
+
+<!--</script>-->
+</body>
+</html>

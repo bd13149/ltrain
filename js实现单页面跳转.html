@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<ul>
+    <li><a href="#/music">音乐</a></li>
+    <li><a href="#/friend">朋友</a></li>
+</ul>
+<div id="view">
+    <!--页面上需要修改的内容-->
+</div>
+</body>
+<script>
+    window.addEventListener('hashchange', function () {   //hashchange 事件在当前 URL 的锚部分(以 '#' 号为开始) 发生改变时触发 。
+        console.log(location.hash);  //输出结果见下图：
+        var view = document.getElementById('view');  //获取页面中想要插入元素的id
+        switch (location.hash) {
+            case '#/music':            //利用switch case来判断当前点击的锚节点是什么 ，同时设置相应的内容
+                view.innerHTML = '音乐';
+                break;
+            case '#/friend':
+                view.innerHTML = "朋友";
+                break;
+        }
+    })
+</script>
+</html>

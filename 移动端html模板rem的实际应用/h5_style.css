@@ -1,0 +1,331 @@
+/*通用样式*/
+html {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    height: 100%;
+    overflow: auto;
+    margin: 0;
+    color: #333;
+    background: #eeeeee;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+}
+
+i {
+    font-style: normal
+}
+
+.pay_center {
+    width: 10rem;
+    margin: 0 auto
+}
+
+input, select {
+    -webkit-appearance: none;
+    padding: 0;
+    margin: 0
+}
+
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0;
+}
+
+.pay_pos {
+    position: absolute
+}
+
+/*选择银行*/
+.pay_zfdd_top {
+    width: 10rem;
+    height: 1.78rem;
+    border-bottom: 1px solid #ddd;
+    background: url(../images/pay_icon_top.png) no-repeat right #fff;
+    background-size: auto 1.77rem;
+}
+
+.pay_zfdd_top .pay_zfdd_top_l1 {
+    padding: .10rem 0 0 .5rem;
+    font-size: .4rem
+}
+
+.pay_zfdd_top .pay_zfdd_top_l1 i {
+    color: #ff8b3f;
+    padding-left: .3rem
+}
+
+.pay_zfdd_top .pay_zfdd_top_l3 {
+    padding-left: .5rem;
+    font-size: .4rem
+}
+
+.pay_zfdd_top .pay_zfdd_top_l3 i {
+    color: #ff8b3f;
+    font-weight: bold;
+}
+
+.pay_zfdd_top .pay_zfdd_top_l1 i b {
+    font-size: .66rem;
+}
+
+.pay_zfdd_top .pay_zfdd_top_l2 {
+    color: #bbb;
+    font-size: .32rem;
+    padding: .15rem 0 0 .5rem;
+}
+
+.pay_zfdd_ul {
+    width: 10rem;
+    margin: .26rem 0 0 0;
+    padding: 0;
+    border-top: 1px solid #ddd;
+}
+
+.pay_zfdd_ul li {
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+    height: 1.33rem;
+    line-height: 1.33rem;
+    text-indent: .46rem;
+    font-size: .4rem;
+    background: url(../images/pay_icon_jt.png) no-repeat 9.2rem center #fff;
+    background-size: .22rem auto
+}
+
+.pay_zfdd_ul li:active {
+    background: url(../images/pay_icon_jt.png) no-repeat 9.2rem center #f6f5f5;
+    background-size: .22rem auto
+}
+
+/*信用卡管理*/
+.pay_delete {
+    float: left;
+    width: .62rem;
+    height: .62rem;
+    background: url(../images/pay_icon_yc.png) no-repeat;
+    background-size: .62rem auto;
+    margin: .4rem 0 0 .4rem
+}
+
+.pay_bottom_xk {
+    bottom: 0;
+    width: 10rem;
+    height: 1.3rem;
+    background: #ff8b3f;
+    border: none;
+    color: #fff;
+    font-size: .42rem;
+    border-radius: 0;
+}
+
+.pay_bottom_xk:active {
+    background: #ff993f
+}
+
+/*验证后三位*/
+.pay_hsw {
+    width: 10rem;
+    height: 1.78rem;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+    margin-top: .26rem;
+    text-align: center;
+    font-size: .4rem;
+}
+
+.pay_hsw i {
+    color: #ff8b3f;
+    line-height: 1.78rem;
+    padding-left: .2rem
+}
+
+.pay_hsw_input {
+    width: 10rem;
+    height: 1.33rem;
+    line-height: 1.33rem;
+    text-indent: .2rem;
+    font-size: .4rem;
+    border: 1px solid #ddd;
+    border-right: none;
+    border-left: none;
+    margin-top: .26rem;
+    border-radius: 0;
+}
+
+.pay_bottom_yzm {
+    margin: .5rem .4rem 0 .4rem;
+    width: 9.2rem;
+    height: 1.3rem;
+    background: #ff8b3f;
+    border: none;
+    color: #fff;
+    font-size: .42rem;
+    border-radius: .125rem
+}
+
+/*输入验证码*/
+.pay_hsw_zf {
+    margin: 0 .4rem 0 .4rem;
+    width: 9.2rem;
+    font-size: .32rem;
+    color: #8c8c8c;
+    padding-top: .5rem;
+    line-height: .5rem
+}
+
+.pay_hsw_zf1 {
+    margin: 0 .4rem 0 .4rem;
+    width: 9.2rem;
+    font-size: .32rem;
+    color: #8c8c8c;
+    line-height: .5rem
+}
+
+.pay_bottom_hq {
+    margin: .5rem .4rem 0 .4rem;
+    width: 9.2rem;
+    height: 1.3rem;
+    background: #cfcfcf;
+    border: none;
+    color: #fff;
+    font-size: .42rem;
+    border-radius: .125rem
+}
+
+/*填写*/
+.pay_font_b {
+    padding-bottom: .5rem
+}
+
+.pay_xy {
+    font-size: 0.32rem;
+    padding-top: 0.55rem;
+    margin: 0 .4rem 0 .4rem;
+    width: 9.2rem;
+    color: #8c8c8c;
+    height: .4rem;
+    line-height: .4rem
+}
+.pay_xy span {
+    float: right;
+    color: #ff8b3f;
+}
+
+.pay_hsw_select {
+    width: 100%;
+    height: 1.33rem;
+    line-height: 1.33rem;
+    text-indent: .2rem;
+    font-size: .4rem;
+    border: 1px solid #ddd;
+    border-right: none;
+    border-left: none;
+    margin-top: .26rem;
+    border-radius: 0;
+    background: url(../images/pay_icon_jt.png) no-repeat 9.2rem center #fff;
+    background-size: .22rem auto
+}
+
+.pay_hsw_selectl {
+    width: 100%;
+    height: 1.33rem;
+    line-height: 1.33rem;
+    text-indent: .2rem;
+    font-size: .4rem;
+    border: 1px solid #ddd;
+    border-right: none;
+    border-left: none;
+    margin-top: .26rem;
+    border-radius: 0;
+    background: url(../images/pay_icon_jt.png) no-repeat 4.2rem center #fff;
+    background-size: .22rem auto
+}
+
+.pay_zfdd_cf {
+    width: 10rem;
+}
+
+.pay_zfdd_cf span {
+    width: 5rem;
+    float: left
+}
+
+.regular_checkbox {
+    border: 1px solid #cacece;
+    padding: 6px;
+    border-radius: 3px;
+    display: inline-block;
+    position: relative;
+    margin-right: .1rem;
+    float: left
+}
+
+.regular_checkbox:checked {
+    background: url(../images/pay_xz.png) no-repeat;
+    background-size: 100% auto;
+    color: #fff;
+    border: none
+}
+
+/*弹出提示层*/
+.pay_show_bg {
+    background: rgba(0, 0, 0, .4);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.pay_show {
+    position: fixed;
+    z-index: 2;
+    width: 8rem;
+    height: 4.2rem;
+    background: #fff;
+    border-radius: .2rem;
+    left: 50%;
+    margin-left: -4rem;
+    top: 50%;
+    margin-top: -2.1rem;
+    overflow: hidden
+}
+
+.pay_show .pay_show_font {
+    font-size: .45rem;
+    padding-left: 1.6rem;
+    width: 6.1rem;
+    float: left;
+    padding-top: 1rem;
+    height: 2rem;
+}
+
+.pay_show .pay_ok {
+    height: 1.2rem;
+    float: left;
+    color: #ff8b3f;
+    font-size: .45rem;
+    text-align: center;
+    line-height: 1.2rem;
+    width: 4rem;
+    border-top: 1px solid #dcdcdc;
+}
+
+.pay_show .pay_no {
+    height: 1.2rem;
+    float: left;
+    color: #ff8b3f;
+    font-size: .45rem;
+    text-align: center;
+    line-height: 1.2rem;
+    width: calc(4rem - 1px);
+    border-top: 1px solid #dcdcdc;
+    border-left: 1px solid #dcdcdc
+}
